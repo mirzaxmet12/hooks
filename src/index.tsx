@@ -8,6 +8,7 @@ import UseRefShowHide from './useRefShowHide';
 import SpesialButton from './SpesialButton';
 import UseEffectPosition from './useEffectPosition';
 import EffectBg from './effectBg';
+import ResetCount from './resetCount';
 
 
 
@@ -22,6 +23,7 @@ root.render(
     <SpesialButton/>
     <UseEffectPosition/>
     <EffectBg/>
+    <ResetCount/>
   </React.StrictMode>
 );
 
