@@ -1,0 +1,12 @@
+.App{
+  width: 200px;
+  margin: 100px;
+  text-align: center;
+  box-shadow: 0 0 5px ;
+  padding: 20px;border-radius: 10px;
+}
+.block p{
+  background: cadetblue;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
